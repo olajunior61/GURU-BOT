@@ -1,7 +1,7 @@
 { 
-    "name": "GURU",
+    "name": "VIRUS",
     "version": "0.0.1",
-    "description": "Customizable WhatsApp Bot",
+    "description": "Customizable PARK-JI-SANG WhatsApp Bot",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -28,7 +28,7 @@
     ],
     "homepage": "https://github.com/Guru322/GURU-BOT",
     "author": {
-        "name": "GURU"
+        "name": "VIRUS"
     },
     "repository": {
         "type": "git",
